@@ -5,10 +5,10 @@ I have experience in leadership using SCRUM/PMBOK methodologies to deliver compl
 
 ---
 ## 💫 About Me
-- 🎓 **Education:** 8th-semester Computer Systems Engineering student at **TecNM Campus Guasave**.
-- 🔭 **Current Focus:** Expanding expertise in **Big Data Analytics** and **Data Science**.
+- 🎓 **Education:** 8th-semester Computer Systems Engineering student at TecNM Campus Guasave.
+- 🔭 **Current Focus:** Expanding expertise in Big Data Analytics and Data Science.
 - 🛠️ **Expertise:** Architecture design, Relational & NoSQL Database Management.
-- 👥 **Leadership:** Experienced in managing cross-functional teams using **SCRUM** and **PMBOK** methodologies.
+- 👥 **Leadership:** Experienced in managing cross-functional teams using SCRUM and PMBOK methodologies.
 
 ### ✉️ Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deisy-margarita-serrano-renteria) 
@@ -49,6 +49,8 @@ An IoT automation system for managing devices via a central dashboard website.<b
 - Engineered a full-stack IoT ecosystem using ESP32 microcontrollers and MongoDB Atlas for real-time telemetry and device state synchronization.
 - Developed a responsive web interface for remote monitoring of security, lighting, and ventilation.
 - Implemented secure user authentication and live camera feed integration for residential surveillance.
+  <br>
+
 **Key Tech:** HTML5, CSS3, JavaScript, Bootstrap, Chart.js, MongoDB, ESP32
 
 ### 🔗 [Cross-Platform DBMS Migration Assistant](https://github.com/deisy-s/MigrateDBs)
@@ -59,6 +61,8 @@ An assistant to manage multiple DBMS simultaneously and migrate entire databases
 - Designed a custom Business Logic Layer (BLL) in C# to translate queries and data types across incompatible engines (SQL Server, MySQL, Oracle, etc.).
 - Built a multi-engine connectivity hub supporting concurrent local and remote (Wi-Fi) database sessions.
 - Developed a hierarchical metadata explorer to map complex schemas, views, and stored procedures.
+  <br>
+
 **Key Tech:** C#, SQL Server, MySQL, Firebird, Oracle, PostreSQL, DevExpress, .NET <br>
 
 ### 🏫 [School Management System (Pro-Bono)](https://github.com/deisy-s/PrimariaFIM)
@@ -69,6 +73,8 @@ A school administration system to manage students, grades and assessment results
 - Digitized administrative operations for an elementary school, replacing manual logs with a C# / MySQL desktop environment.
 - Automated official reporting by engineering a dynamic PDF generation engine for academic transcripts.
 - Integrated Data Visualization modules to provide principals and teachers with longitudinal performance analytics.
+  <br>
+
 **Key Tech:** C#, MySQL, DevExpress, PDFSharp, .NET <br>
 
 ---
