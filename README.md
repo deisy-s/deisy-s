@@ -78,12 +78,6 @@ A school administration system to manage students, grades and assessment results
 **Key Tech:** C#, MySQL, DevExpress, PDFSharp, .NET <br>
 
 ---
-## 📊 Performace Metrics
-![](https://github-readme-stats.vercel.app/api?username=deisy-s&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=deisy-s&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deisy-s&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 <p align="center">
   "Analyzing the past, coding the future"
 </p>
